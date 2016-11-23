@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>My Cart App</name>
+
+  <description>
+      My cart application
+  </description>
+
+  <author href="https://build.phonegap.com" email="noufalkareem@gmail.com">
+      Noufal Abdulkareem
+  </author>
+  
+  <allow-navigation href="http://www.baytcart.com" />
+
+</widget>
