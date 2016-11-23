@@ -7,10 +7,10 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>My Cart App</name>
+  <name>BaytCart</name>
 
   <description>
-      My cart application
+      You online store
   </description>
 
   <author href="https://build.phonegap.com" email="noufalkareem@gmail.com">
