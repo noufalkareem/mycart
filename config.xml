@@ -16,6 +16,8 @@
   <author href="https://build.phonegap.com" email="noufalkareem@gmail.com">
       Noufal Abdulkareem
   </author>
+   <plugin name="cordova-plugin-whitelist" version="1"/>
+   <allow-intent href="http://*/*"/>
   
   <allow-navigation href="http://www.baytcart.com" />
 
